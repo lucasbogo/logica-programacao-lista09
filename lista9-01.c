@@ -7,7 +7,7 @@ int main()
 
         for(i=0; i<5; i++){
           printf("\n digite  um numero[%d]",i);
-           scanf(" %d", &vetorA[i]);
+          scanf(" %d", &vetorA[i]);
         }
 
        for(i=0; i<5; i++){
@@ -15,5 +15,6 @@ int main()
          printf("\n resultdo= %d >> %d \n",i,vetorB[i]);
 
         }
+    
   return 0;
 }
