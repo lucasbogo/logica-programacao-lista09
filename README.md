@@ -19,8 +19,8 @@ O produto escalar é dado por (1*4 + 2*5 + 3*6) = 32
 
 4. Faça um programa que permita a leitura das notas (tipo float) de uma turma de 20 alunos. Calcular a média da turma e contar quantos alunos obtiveram nota acima desta média calculada. Escrever a média da turma e o resultado da contagem.
 <br>
-
-5.Ler um vetor V de 20 posições (aceitar somente números positivos). Escrever a seguir o valor do maior elemento de V e a respectiva posição que ele ocupa no vetor.
+ 
+5. Ler um vetor V de 20 posições (aceitar somente números positivos). Escrever a seguir o valor do maior elemento de V e a respectiva posição que ele ocupa no vetor.
 <br>
 
 6. O mesmo exercício anterior, mas agora deve escrever o menor elemento do vetor e a respectiva posição dele nesse vetor.
